@@ -23,11 +23,11 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I’m working as a Frontend developer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I read tech articles and searching for the best UI designs on awwwards.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/ayman_abusura96-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/ayman_abusura96)
 
