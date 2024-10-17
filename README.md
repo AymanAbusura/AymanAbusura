@@ -29,7 +29,7 @@ I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/ayman_abusura96-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/ayman_abusura96-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/ayman_abusura96)
 
 ---
 
