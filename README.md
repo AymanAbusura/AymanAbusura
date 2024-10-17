@@ -47,6 +47,11 @@ I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
+---
+
+### :fire: My stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AymanAbusura/AymanAbusura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
