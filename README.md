@@ -50,6 +50,7 @@ I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5
 ---
 
 ### :fire: My stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
