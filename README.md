@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 ```markdown
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Web Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> from Russia.
 ```
 
 <!--
