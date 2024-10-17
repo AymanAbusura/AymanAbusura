@@ -12,8 +12,8 @@
   <a href="https://ayman-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=AymanAbusura&style=for-the-badge&color=blue" alt=""/>
 </div>
-<img src="https://AymanAbusura.com/ghpvc/?username=AymanAbusura&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hi there
