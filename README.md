@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=AymanAbusura&style=for-the-badge&color=blue&base=1000" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
