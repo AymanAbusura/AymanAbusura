@@ -22,6 +22,13 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 
 ---
 
@@ -50,7 +57,7 @@ I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5
 ---
 
 ### :fire: My stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AymanAbusura/AymanAbusura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
