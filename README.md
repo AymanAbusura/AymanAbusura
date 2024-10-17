@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://ayman-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Website?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
+
 </div>
 
 ## Hi there 👋
