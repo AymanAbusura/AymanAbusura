@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
+```html
+<img src="https://komarev.com/ghpvc/?AymanAbusura=your-github-username&style=flat-square&color=blue" alt=""/>
+```
 
 <h1>
   Hi there
