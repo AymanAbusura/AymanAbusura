@@ -27,7 +27,7 @@ I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5
 
 - :seedling: Exploring new courses to develop my skills.
 
-- :zap: In my free time, I read tech articles and searching for the best UI designs on awwwards.
+- :zap: I read tech articles and searching for the best UI designs on awwwards.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/ayman_abusura96-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/ayman_abusura96)
 
