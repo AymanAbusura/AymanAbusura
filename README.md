@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 I am a Frontend Developer(React) <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30">.
-- :telescope:  I’m working as a Frontend developer and contributing to frontend for building web applications.
+- I’m working as a Frontend developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring new courses to develop my skills.
+- Exploring new courses to develop my skills.
 
 - :zap: I read tech articles and searching for the best UI designs on awwwards.
 
