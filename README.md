@@ -48,7 +48,7 @@ I am a Web Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0
 ---
 
 ### :fire: My stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-light&hide=other&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AymanAbusura/AymanAbusura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
