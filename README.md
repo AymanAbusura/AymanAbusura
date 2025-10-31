@@ -23,7 +23,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Web Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30">.
+I am a FullStack Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0Y3l1bXV5ZnlkYW9tZnprNDY0M2V4aDRsMHY0ajJrcm9mdmIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="30">.
 - I’m working as a Web developer and contributing to frontend for building web applications.
 
 - Exploring new courses to develop my skills.
@@ -45,10 +45,6 @@ I am a Web Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-### :fire: My stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAbusura&layout=compact&theme=vision-friendly-light&hide=other&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AymanAbusura/AymanAbusura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
