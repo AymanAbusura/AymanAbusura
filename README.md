@@ -30,8 +30,7 @@ I am a Web Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0
 
 - I read tech articles and searching for the best UI designs on awwwards.
 
-- How to reach me: 
-<a href="https://telegram.me/ayman_abusura96">
+- How to reach me: <a href="https://telegram.me/ayman_abusura96">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
